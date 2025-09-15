@@ -15,6 +15,8 @@
   "dependencies": {
     "@clerk/clerk-expo": "^2.14.23",
     "@neondatabase/serverless": "^1.0.1",
+    "@upstash/ratelimit": "^2.0.6",
+    "@upstash/redis": "^1.35.3",
     "cors": "^2.8.5",
     "cron": "^4.3.3",
     "dotenv": "^17.2.1",
